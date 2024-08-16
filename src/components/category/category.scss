@@ -1,0 +1,33 @@
+.category{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+    .top{
+        display: flex;
+        width: 60%;
+        justify-content: space-between;
+        h2{
+            font-size: 25px;
+            font-weight: bold;
+            color: #02060CEB;             
+       }
+       .right{
+        .icons{
+            background-color: rgb(199, 199, 199);
+            font-size: 20PX;
+            padding: 5px;
+            border-radius: 50%;
+            margin-left: 5px;
+        }
+       }
+    }
+
+    .bottom{
+        img{
+            width: 150px;
+        }
+    }
+}

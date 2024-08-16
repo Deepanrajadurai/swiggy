@@ -1,0 +1,60 @@
+.TopRestaurants {
+    padding: 50px 400px 0;
+
+    .top {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        
+        .right {
+            .icons {
+                background-color: rgb(199, 199, 199);
+                font-size: 20PX;
+                padding: 5px;
+                border-radius: 50%;
+                margin-left: 5px;
+            }
+        }
+    }
+
+    .bottom {
+        margin-top: 50px;
+        display: flex;
+        gap: 10px;
+        .card {
+            width: 270px;
+            height: 350px;
+
+            img {
+                width: 100%;
+                height: 200px;
+                border-radius: 15px;
+            }
+
+            .content {
+                padding: 10px;
+
+                h3 {
+                    font-weight: bolder;
+                }
+
+                span {
+                    display: flex;
+                    align-items: center;
+                    gap: 10px;
+                    font-size: 17px;
+
+                    .icon {
+                        font-size: 20px;
+                    }
+                }
+
+                p {
+                    font-size: 18px;
+                    font-weight: 400;
+                    color: rgb(158, 158, 158);
+                }
+            }
+        }
+    }
+}

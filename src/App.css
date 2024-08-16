@@ -1,0 +1,71 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* div h2{
+     font-size: 25px;
+     font-weight: bold;
+     padding-top:20px ;
+     margin-left: 20% ;
+     color: #02060CEB;
+     display: inline;
+      
+} */
+/* div .icons{
+    display: inline;
+    margin-left: 50%;
+    
+}
+div .icons :first-child{
+    background: #02060C26;
+    color: #02060CEB;
+    gap: 20px;
+    border-radius: 20px;
+    
+}
+div .icons :last-child{
+     background: #02060C26;
+    color: #02060CEB;
+    border-radius: 20px;
+}
+div .img{
+    display: flex;
+    margin: 20px 20%;
+}
+div .img .imgs{
+    height: 170px;
+    width: 200px;
+    padding-right: 25px;
+}
+.img h2 .icon{
+   margin-right: 12px;
+   padding: 8px 4px 4px ;
+   background: #02060C26;
+}
+.details .one img{
+      height: 180px;
+      width: 273px;
+       border-radius: 15px;
+    
+}
+.details  .one{
+    height: 24px;
+    width: 261px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #02060CEB;
+    display: inline;
+}
+.details  .one .onep{
+    color: #02060C99;
+    height: 19px;
+    width: 201px;
+    display: inline;
+}
+.details  .one .onep2{
+    color: #02060C99;
+    height: 19px;
+    width: 201px;
+} */

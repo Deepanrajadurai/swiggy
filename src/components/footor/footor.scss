@@ -1,0 +1,67 @@
+    .foot {
+        display: flex;
+        background: #02060C;
+        justify-content: center;
+        height: 300px;
+        align-items: center;
+
+        div {
+            height: 200px;
+            width: 300px;
+        }
+
+
+        div.first {
+
+            .logo {
+                height: fit-content;
+                display: flex;
+                align-items: center;
+
+                img {
+                    height: 40px;
+                    font-weight: bolder;
+                }
+
+                span {
+                    color: #ffffffEB;
+                    font-weight: bolder;
+                    font-size: 30px;
+
+                }
+            }
+
+            h3 {
+                color: #ffffff99;
+                font-weight: bolder;
+                font-size: 13px;
+                height: 30px;
+                margin-top: 10px;
+
+            }
+        }
+
+        .card {
+
+            .h4 {
+                color: #ffffffEB;
+                height: 30px;
+                width: 70px;
+                display: inline;
+
+            }
+
+            .a {
+                color: #ffffff99;
+                width: 190px;
+                height: 19px;
+                font-weight: bolder;
+                font-size: 14px;
+                display: block;
+                padding-top: 10px;
+                text-decoration: none;
+
+            }
+
+        }
+    }
